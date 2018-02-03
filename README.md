@@ -1,1 +1,1 @@
-# Classification-of-iris-dataset
+# Classification-of-iris-dataset-using-KNN
